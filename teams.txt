@@ -1,0 +1,11 @@
+group
+squad
+crew
+friends
+gang
+troupe
+family
+collective
+bunch
+batch
+folks
